@@ -1,0 +1,210 @@
+sim_begin :
+Wed Nov 16 12:27:26 CST 2016
+nit = 20
+fapnit = 1000
+shortfapt = 0
+nmass x nper = 7 x 7
+massrange = 3,30
+perrange = 50,400
+eccmax = 0.400000
+permin = 1.20000
+planet 1 completed at:
+Wed Nov 16 13:37:30 CST 2016
+planet 1 completed at:
+Wed Nov 16 13:41:48 CST 2016
+planet 2 completed at:
+Wed Nov 16 14:50:37 CST 2016
+planet 2 completed at:
+Wed Nov 16 14:55:35 CST 2016
+planet 3 completed at:
+Wed Nov 16 16:04:21 CST 2016
+planet 3 completed at:
+Wed Nov 16 16:09:18 CST 2016
+planet 4 completed at:
+Wed Nov 16 17:17:56 CST 2016
+planet 4 completed at:
+Wed Nov 16 17:23:14 CST 2016
+planet 5 completed at:
+Wed Nov 16 18:31:27 CST 2016
+planet 5 completed at:
+Wed Nov 16 18:37:01 CST 2016
+planet 6 completed at:
+Wed Nov 16 19:45:12 CST 2016
+planet 6 completed at:
+Wed Nov 16 19:50:39 CST 2016
+planet 7 completed at:
+Wed Nov 16 20:58:43 CST 2016
+planet 7 completed at:
+Wed Nov 16 21:04:18 CST 2016
+planet 8 completed at:
+Wed Nov 16 22:12:16 CST 2016
+planet 8 completed at:
+Wed Nov 16 22:17:55 CST 2016
+planet 9 completed at:
+Wed Nov 16 23:25:52 CST 2016
+planet 9 completed at:
+Wed Nov 16 23:31:41 CST 2016
+planet 10 completed at:
+Thu Nov 17 00:39:20 CST 2016
+planet 10 completed at:
+Thu Nov 17 00:45:41 CST 2016
+planet 11 completed at:
+Thu Nov 17 01:52:48 CST 2016
+planet 11 completed at:
+Thu Nov 17 01:59:40 CST 2016
+planet 12 completed at:
+Thu Nov 17 03:06:28 CST 2016
+planet 12 completed at:
+Thu Nov 17 03:13:36 CST 2016
+planet 13 completed at:
+Thu Nov 17 04:19:55 CST 2016
+planet 13 completed at:
+Thu Nov 17 04:27:35 CST 2016
+planet 14 completed at:
+Thu Nov 17 05:33:36 CST 2016
+planet 14 completed at:
+Thu Nov 17 05:41:28 CST 2016
+planet 15 completed at:
+Thu Nov 17 06:47:05 CST 2016
+planet 15 completed at:
+Thu Nov 17 06:55:28 CST 2016
+planet 16 completed at:
+Thu Nov 17 08:00:20 CST 2016
+planet 16 completed at:
+Thu Nov 17 08:09:28 CST 2016
+planet 17 completed at:
+Thu Nov 17 09:13:55 CST 2016
+planet 17 completed at:
+Thu Nov 17 09:23:17 CST 2016
+planet 18 completed at:
+Thu Nov 17 10:27:20 CST 2016
+planet 18 completed at:
+Thu Nov 17 10:37:14 CST 2016
+planet 19 completed at:
+Thu Nov 17 11:41:00 CST 2016
+planet 19 completed at:
+Thu Nov 17 11:51:09 CST 2016
+planet 20 completed at:
+Thu Nov 17 12:54:28 CST 2016
+planet 20 completed at:
+Thu Nov 17 13:05:02 CST 2016
+planet 21 completed at:
+Thu Nov 17 14:08:11 CST 2016
+planet 21 completed at:
+Thu Nov 17 14:19:13 CST 2016
+planet 22 completed at:
+Thu Nov 17 15:21:36 CST 2016
+planet 22 completed at:
+Thu Nov 17 15:33:12 CST 2016
+planet 23 completed at:
+Thu Nov 17 16:35:18 CST 2016
+planet 23 completed at:
+Thu Nov 17 16:47:27 CST 2016
+planet 24 completed at:
+Thu Nov 17 17:48:41 CST 2016
+planet 24 completed at:
+Thu Nov 17 18:01:21 CST 2016
+planet 25 completed at:
+Thu Nov 17 19:02:23 CST 2016
+planet 25 completed at:
+Thu Nov 17 19:15:21 CST 2016
+planet 26 completed at:
+Thu Nov 17 20:16:04 CST 2016
+planet 26 completed at:
+Thu Nov 17 20:29:22 CST 2016
+planet 27 completed at:
+Thu Nov 17 21:29:55 CST 2016
+planet 27 completed at:
+Thu Nov 17 21:43:17 CST 2016
+planet 28 completed at:
+Thu Nov 17 22:43:40 CST 2016
+planet 28 completed at:
+Thu Nov 17 22:57:25 CST 2016
+planet 29 completed at:
+Thu Nov 17 23:57:16 CST 2016
+planet 29 completed at:
+Fri Nov 18 00:11:21 CST 2016
+planet 30 completed at:
+Fri Nov 18 01:11:06 CST 2016
+planet 30 completed at:
+Fri Nov 18 01:25:28 CST 2016
+planet 31 completed at:
+Fri Nov 18 02:24:42 CST 2016
+planet 31 completed at:
+Fri Nov 18 02:39:15 CST 2016
+planet 32 completed at:
+Fri Nov 18 03:38:19 CST 2016
+planet 32 completed at:
+Fri Nov 18 03:53:01 CST 2016
+planet 33 completed at:
+Fri Nov 18 04:52:01 CST 2016
+planet 33 completed at:
+Fri Nov 18 05:07:01 CST 2016
+planet 34 completed at:
+Fri Nov 18 06:05:41 CST 2016
+planet 34 completed at:
+Fri Nov 18 06:21:06 CST 2016
+planet 35 completed at:
+Fri Nov 18 07:19:09 CST 2016
+planet 35 completed at:
+Fri Nov 18 07:35:02 CST 2016
+planet 36 completed at:
+Fri Nov 18 08:32:38 CST 2016
+planet 36 completed at:
+Fri Nov 18 08:48:58 CST 2016
+planet 37 completed at:
+Fri Nov 18 09:46:23 CST 2016
+planet 37 completed at:
+Fri Nov 18 10:03:02 CST 2016
+planet 38 completed at:
+Fri Nov 18 11:00:04 CST 2016
+planet 38 completed at:
+Fri Nov 18 11:17:04 CST 2016
+planet 39 completed at:
+Fri Nov 18 12:13:38 CST 2016
+planet 39 completed at:
+Fri Nov 18 12:30:56 CST 2016
+planet 40 completed at:
+Fri Nov 18 13:27:13 CST 2016
+planet 40 completed at:
+Fri Nov 18 13:45:05 CST 2016
+planet 41 completed at:
+Fri Nov 18 14:40:43 CST 2016
+planet 41 completed at:
+Fri Nov 18 14:59:23 CST 2016
+planet 42 completed at:
+Fri Nov 18 15:54:20 CST 2016
+planet 42 completed at:
+Fri Nov 18 16:13:35 CST 2016
+planet 43 completed at:
+Fri Nov 18 17:07:50 CST 2016
+planet 43 completed at:
+Fri Nov 18 17:27:20 CST 2016
+planet 44 completed at:
+Fri Nov 18 18:21:49 CST 2016
+planet 44 completed at:
+Fri Nov 18 18:41:09 CST 2016
+planet 45 completed at:
+Fri Nov 18 19:35:30 CST 2016
+planet 45 completed at:
+Fri Nov 18 19:55:02 CST 2016
+planet 46 completed at:
+Fri Nov 18 20:48:59 CST 2016
+planet 46 completed at:
+Fri Nov 18 21:09:08 CST 2016
+planet 47 completed at:
+Fri Nov 18 22:03:04 CST 2016
+planet 47 completed at:
+Fri Nov 18 22:23:10 CST 2016
+planet 48 completed at:
+Fri Nov 18 23:16:38 CST 2016
+planet 48 completed at:
+Fri Nov 18 23:37:05 CST 2016
+planet 49 completed at:
+Sat Nov 19 00:30:32 CST 2016
+sim_end :
+Sat Nov 19 00:30:32 CST 2016
+planet 49 completed at:
+Sat Nov 19 00:45:31 CST 2016
+sim_end :
+Sat Nov 19 00:45:31 CST 2016
