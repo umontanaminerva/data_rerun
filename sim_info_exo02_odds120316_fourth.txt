@@ -1,0 +1,110 @@
+sim_begin :
+Sun Dec  4 15:33:03 CST 2016
+nit = 10
+fapnit = 1000
+shortfapt = 0
+nmass x nper = 7 x 7
+massrange = 3,30
+perrange = 50,400
+eccmax = 0.400000
+permin = 1.20000
+planet 1 completed at:
+Sun Dec  4 16:32:37 CST 2016
+planet 2 completed at:
+Sun Dec  4 17:32:09 CST 2016
+planet 3 completed at:
+Sun Dec  4 18:31:38 CST 2016
+planet 4 completed at:
+Sun Dec  4 19:31:09 CST 2016
+planet 5 completed at:
+Sun Dec  4 20:30:34 CST 2016
+planet 6 completed at:
+Sun Dec  4 21:30:06 CST 2016
+planet 7 completed at:
+Sun Dec  4 22:29:42 CST 2016
+planet 8 completed at:
+Sun Dec  4 23:29:21 CST 2016
+planet 9 completed at:
+Mon Dec  5 00:28:48 CST 2016
+planet 10 completed at:
+Mon Dec  5 01:28:23 CST 2016
+planet 11 completed at:
+Mon Dec  5 02:27:52 CST 2016
+planet 12 completed at:
+Mon Dec  5 03:27:13 CST 2016
+planet 13 completed at:
+Mon Dec  5 04:26:43 CST 2016
+planet 14 completed at:
+Mon Dec  5 05:26:05 CST 2016
+planet 15 completed at:
+Mon Dec  5 06:25:36 CST 2016
+planet 16 completed at:
+Mon Dec  5 07:25:08 CST 2016
+planet 17 completed at:
+Mon Dec  5 08:24:42 CST 2016
+planet 18 completed at:
+Mon Dec  5 09:24:17 CST 2016
+planet 19 completed at:
+Mon Dec  5 10:23:52 CST 2016
+planet 20 completed at:
+Mon Dec  5 11:23:14 CST 2016
+planet 21 completed at:
+Mon Dec  5 12:22:45 CST 2016
+planet 22 completed at:
+Mon Dec  5 13:22:15 CST 2016
+planet 23 completed at:
+Mon Dec  5 14:21:36 CST 2016
+planet 24 completed at:
+Mon Dec  5 15:21:02 CST 2016
+planet 25 completed at:
+Mon Dec  5 16:20:32 CST 2016
+planet 26 completed at:
+Mon Dec  5 17:20:12 CST 2016
+planet 27 completed at:
+Mon Dec  5 18:19:33 CST 2016
+planet 28 completed at:
+Mon Dec  5 19:19:05 CST 2016
+planet 29 completed at:
+Mon Dec  5 20:18:30 CST 2016
+planet 30 completed at:
+Mon Dec  5 21:18:08 CST 2016
+planet 31 completed at:
+Mon Dec  5 22:17:52 CST 2016
+planet 32 completed at:
+Mon Dec  5 23:17:20 CST 2016
+planet 33 completed at:
+Tue Dec  6 00:16:56 CST 2016
+planet 34 completed at:
+Tue Dec  6 01:16:28 CST 2016
+planet 35 completed at:
+Tue Dec  6 02:15:51 CST 2016
+planet 36 completed at:
+Tue Dec  6 03:15:23 CST 2016
+planet 37 completed at:
+Tue Dec  6 04:14:47 CST 2016
+planet 38 completed at:
+Tue Dec  6 05:14:23 CST 2016
+planet 39 completed at:
+Tue Dec  6 06:13:57 CST 2016
+planet 40 completed at:
+Tue Dec  6 07:13:34 CST 2016
+planet 41 completed at:
+Tue Dec  6 08:13:10 CST 2016
+planet 42 completed at:
+Tue Dec  6 09:12:50 CST 2016
+planet 43 completed at:
+Tue Dec  6 10:12:15 CST 2016
+planet 44 completed at:
+Tue Dec  6 11:11:46 CST 2016
+planet 45 completed at:
+Tue Dec  6 12:11:11 CST 2016
+planet 46 completed at:
+Tue Dec  6 13:10:39 CST 2016
+planet 47 completed at:
+Tue Dec  6 14:10:04 CST 2016
+planet 48 completed at:
+Tue Dec  6 15:09:34 CST 2016
+planet 49 completed at:
+Tue Dec  6 16:08:26 CST 2016
+sim_end :
+Tue Dec  6 16:08:26 CST 2016
